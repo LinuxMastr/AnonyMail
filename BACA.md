@@ -10,8 +10,8 @@
 4. Watch more Hentai at wwww.HentaiHaven.org xD
          + Thanks For Using this tools + 
                  
-                  [INSTALLATION] 
+                  [INSTALLATION TERMUX] 
 1. git clone https://github.com/LinuxMastr/AnonyMail
 2. cd AnonyMail
-3. python AnonyMail.py
+3. python2 AnonyMail.py 
 4. DONE ! 
